@@ -1,0 +1,37 @@
+#navbar
+{
+    margin-left: 33%;
+    background-color: rgb(213, 213, 213);
+    border:2px solid black;
+    padding: 7px;
+    width:fit-content
+}
+.nav
+{
+    color: aliceblue;
+    border: 2px solid black;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#n1
+{
+    background-color:rgb(26, 152, 184);
+    font-family:'Courier New'  
+    
+}
+#n2
+{
+    background-color:rgb(8, 197, 112);
+    font-family :sans-serif
+}
+#n3
+{
+    background-color:rgb(230, 113, 179);
+    font-family:'Cambria','Times New Roman' 
+}
+#n4
+{
+    background-color:rgb(224, 154, 25);
+    font-family:'Arial Narrow'
+}
